@@ -6,6 +6,10 @@
 
 A comprehensive financial analysis application that extracts insights from complex financial documents, calculates key ratios, detects risks, and provides AI-driven strategic recommendations to help businesses make informed decisions.
 
+## 🚀 Live Demo
+Check out the live app here 👉 [FinVision on Streamlit](https://finvision-g.streamlit.app/)
+
+
 ---
 
 ## ✨ Features
